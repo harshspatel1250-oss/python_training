@@ -1,0 +1,36 @@
+1. (+) operator add two nums
+
+10+3
+
+2. (-) operator subract two nums
+
+100-1
+
+
+3. (*) operator multiply two nums
+
+90*3
+
+4. (/)operator divide two nums
+
+400/4
+
+5. (%) operator gives remainder of division 
+
+40%3
+
+6. (**) operator used to the power 
+
+3**3
+
+35**3
+42875
+>>> 2**5
+32
+7.(^) operator this bitwise operator
+
+5^5
+output: 0
+
+6^5
+output: 3
